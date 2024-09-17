@@ -1,0 +1,5 @@
+●	Used a Kaggle dataset that includes student scores from three different evaluations.
+●	Employed Python with the NumPy and pandas libraries to clean and prepare the data.
+●	Conducted statistical and descriptive analysis using pandas to identify patterns and trends in the scores.
+●	Used Matplotlib and Seaborn to create detailed data visualizations, such as bar charts, histograms, and scatter plots.
+●	Implemented Excel to tabulate and organize results, facilitating the presentation of key insights into student performance.
